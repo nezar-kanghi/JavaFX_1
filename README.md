@@ -1,0 +1,1 @@
+En este ejercicio se crea una ventana básica con JavaFX que tiene un botón con el texto "Haz clic aquí". Se usa un VBox como layout para poner el botón dentro, y una Scene de 250x100 como contenido de la ventana. El botón no hace nada al pulsarlo, solo se muestra en pantalla.
